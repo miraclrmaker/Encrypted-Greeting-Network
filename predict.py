@@ -1,10 +1,3 @@
-'''
-Author: LiangSiyuan
-Date: 2025-12-28 20:31:24
-LastEditors: LiangSiyuan
-LastEditTime: 2025-12-28 21:07:58
-FilePath: /project for fun/predict.py
-'''
 import torch
 import torch.nn as nn
 import string
